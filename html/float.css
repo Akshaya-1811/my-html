@@ -1,0 +1,27 @@
+div.img{
+    float: left;
+}
+
+p{
+  float: left;
+  padding: 80px;
+  margin-top: 100px;
+  border: 2px solid black;
+}
+
+p.c1{
+    margin-left: 500px;
+    background-color: rgba(226, 96, 20, 0.83);
+}
+p.c2{
+    background-color: rgb(253, 251, 255);
+    background-image: url(ashoka.png);
+    background-size: 100px;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+p.c3{
+    background-color: rgb(37, 158, 33);
+}
+
+
